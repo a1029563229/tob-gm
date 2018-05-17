@@ -19,6 +19,7 @@
 </template>
 
 <script>
+// 824481bf0c5daddbe855ac71aa9222a48e0b4ed2
 export default {
   name: "login",
 
